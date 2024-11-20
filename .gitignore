@@ -167,3 +167,6 @@ cython_debug/
 # excel
 .xls
 .xlsx
+
+# Idea
+.idea
